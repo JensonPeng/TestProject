@@ -1,5 +1,6 @@
 # TestProject
 環境PC Windows10
+Unity版本 2019.2.0f1
 
 學習重點
 
