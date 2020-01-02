@@ -1,4 +1,6 @@
 # TestProject
+環境PC Windows10
+
 學習重點
 
 FPS 人物控制
